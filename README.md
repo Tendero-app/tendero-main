@@ -1,7 +1,7 @@
 # Tendero: Open Source Procurement Intelligence
 
 ![Tendero](https://img.shields.io/badge/Tendero-Open%20Source-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-AGPLv3-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Build Status](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge)
 
 **Democratizing access to European public procurement.**
